@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Watch List App</string>
+    <string name="genreText">ჟანრი:</string>
+    <string name="directorText">რეჟისორი:</string>
+    <string name="nameText">სახელწოდება:</string>
+</resources>
